@@ -1,3 +1,7 @@
+# Hi 👋 
+
+I'm Gab, I like making games-related stuff
+
 ### Curling Around
 
 A game prototype based on curling using OpenGL
