@@ -26,7 +26,7 @@ A C++ implementation of goal-oriented action planning
 
 https://github.com/Lumbi/Lumbi/assets/1648852/9d67d082-77b9-419b-a44e-a6564d435a35
 
-### Lark
+### [Lark](https://github.com/Lumbi/game-lark)
 
 A 2D exploration game prototype based on stealth and puzzle solving, written in C# using Unity
 
