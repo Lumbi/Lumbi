@@ -54,7 +54,9 @@ https://github.com/Lumbi/Lumbi/assets/1648852/30866ab6-7851-41ce-9c41-31db9caa93
 
 ### [Dragon Curve](https://github.com/Lumbi/dragoncurve-lsystem-haskell)
 
-// TODO
+A 2D visualization of the [Dragon Curve](https://en.wikipedia.org/wiki/Dragon_curve) [L-system](https://en.wikipedia.org/wiki/L-system) written in Hashell using OpenGL
+
+<img width="800" src="https://github.com/Lumbi/dragoncurve-lsystem-haskell/blob/master/screenshot.png">
 
 ### [Spaceship](https://github.com/Lumbi/spaceship-game)
 
