@@ -1,6 +1,6 @@
-# Hi 👋 
+# Hi 🐸
 
-I'm Gab, I like making games-related stuff
+I'm Gab, I like making game-related stuff
 
 ### [Curling Around](https://github.com/Lumbi/curling-around)
 
