@@ -42,7 +42,9 @@ https://github.com/Lumbi/Lumbi/assets/1648852/21cad985-7693-4e93-8fed-4349049532
 
 ### [Virtual Tag](https://github.com/Lumbi/virtualtag)
 
-// TODO
+An augmented reality graffiti iOS app, written in Objective-C, using Vuforia
+
+<img width="300" src="https://github.com/Lumbi/Lumbi/assets/1648852/3bbf1493-6afe-494f-9772-0a6fef8e5656">
 
 ### [Game of Life](https://github.com/Lumbi/game-of-life-haskell)
 
