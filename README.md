@@ -40,6 +40,12 @@ A 2D game prototype about controlling a lander and finding crystals, written in 
 
 https://github.com/Lumbi/Lumbi/assets/1648852/21cad985-7693-4e93-8fed-4349049532ee
 
+### [MagNet-Soul](https://github.com/Lumbi/MagNet-Soul)
+
+A 2D platformer made in 48 hours with a team of 4 for the GMTK Game Jam 2021, using custom TypeScript engine built during the jam.
+
+https://github.com/Lumbi/Lumbi/assets/1648852/6d22085f-ab77-4191-a205-e1e1673bad18
+
 ### [Virtual Tag](https://github.com/Lumbi/virtualtag)
 
 An augmented reality graffiti iOS app, written in Objective-C, using Vuforia
