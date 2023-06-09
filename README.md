@@ -2,7 +2,7 @@
 
 I'm Gab, I like making games-related stuff
 
-### Curling Around
+### [Curling Around](https://github.com/Lumbi/curling-around)
 
 A game prototype based on curling using OpenGL
 
