@@ -2,6 +2,25 @@
 
 I'm Gab, I like making game-related stuff
 
+### [pineBT](https://github.com/Lumbi/pineBT)
+
+A C++ Behavior Tree implementation
+
+```cpp
+auto behaviorTree = BehaviorTree::build()
+	.select()
+		.conditon(PlayerVisible)
+		.conditon(CanFire)
+			.task(FireAtPlayer)
+		.sequence()
+			.task(MoveToPlayer)
+			.task(Wait)
+		.close()
+		.task(Idle)
+	.close()
+.end();
+```
+
 ### [Doggo](https://github.com/Lumbi/doggo)
 
 An AI using Unreal's Behavior Tree for a dog that follows you, explores areas around and takes a nap when tired
