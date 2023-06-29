@@ -4,7 +4,9 @@ I'm Gab, I like making game-related stuff
 
 ### [pineBT](https://github.com/Lumbi/pineBT)
 
-A C++ Behavior Tree implementation
+A C++ Behavior Tree implementation and FFI bridging to an Electron app allowing editing and previewing a simulated BT in real-time
+
+C++ Builder API example
 
 ```cpp
 auto behaviorTree = BehaviorTree::build()
@@ -20,6 +22,10 @@ auto behaviorTree = BehaviorTree::build()
 	.close()
 .end();
 ```
+
+WIP Electron app
+
+<img width="578" alt="Behavior Tree" src="https://github.com/Lumbi/Lumbi/assets/1648852/64b7c230-b534-4af0-9f71-8a3e290860cb">
 
 ### [Doggo](https://github.com/Lumbi/doggo)
 
