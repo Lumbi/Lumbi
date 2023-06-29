@@ -21,9 +21,8 @@ auto behaviorTree = BehaviorTree::build()
 .end();
 ```
 
-WIP Electron app
-
-<img width="578" alt="Behavior Tree" src="https://github.com/Lumbi/Lumbi/assets/1648852/64b7c230-b534-4af0-9f71-8a3e290860cb">
+WIP Electron editor app
+<img width="863" alt="Behavior Tree Editor" src="https://github.com/Lumbi/Lumbi/assets/1648852/36946b54-739d-4b92-89ca-5c5cec85f617">
 
 ### [Doggo](https://github.com/Lumbi/doggo)
 
