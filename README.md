@@ -1,7 +1,5 @@
 # Hi 🐸
 
-I'm Gab, I like making game-related stuff
-
 ### [pineBT](https://github.com/Lumbi/pineBT)
 
 A C++ Behavior Tree implementation and FFI bridging to an Electron app allowing editing and previewing a simulated BT in real-time
