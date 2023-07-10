@@ -27,6 +27,12 @@ Electron editor app
 
 <img width="800" alt="Behavior Tree Editor" src="https://github.com/Lumbi/Lumbi/assets/1648852/4e8affbb-10c0-473a-8329-2e5121039cda">
 
+### [Ball Strikes Back!](https://glumbi.itch.io/ball-strikes-back)
+
+Submission for the GMTK 2023 Game Jam with the theme: "Roles Reversed", developed in about ~8h using Unity
+
+<img width="600" alt="Ball knocking out a player" src="https://github.com/Lumbi/Lumbi/assets/1648852/54effef4-6045-47b9-ae9f-66b100bd8037">
+
 ### [Doggo](https://github.com/Lumbi/doggo)
 
 An AI using Unreal's Behavior Tree for a dog that follows you, explores areas around and takes a nap when tired
