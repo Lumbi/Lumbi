@@ -1,5 +1,13 @@
 # Hi 🐸
 
+## [GHTN](https://github.com/Lumbi/GHTN)
+
+A Hierarchical Task Network implementation based on [Game AI Pro](https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)'s article.
+
+I also created Blueprint bindings for Unreal and a small prototype [here](https://github.com/Lumbi/GHTNProto).
+
+![image](https://github.com/user-attachments/assets/b7508575-6e4d-48b6-ad1e-d142cc973b37)
+
 ### [pineBT](https://github.com/Lumbi/pineBT)
 
 A C++ Behavior Tree implementation and FFI bridging to an Electron app allowing editing and previewing a simulated BT in real-time
