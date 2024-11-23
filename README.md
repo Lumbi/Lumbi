@@ -1,5 +1,11 @@
 # Hi 🐸
 
+## [Pentatronic 2024](https://glumbi.itch.io/pentatronic-2024)
+
+Submission for the GMTK 2024 Game Jam with the theme: "Built To Scale", developed in about ~10h using Godot.
+
+![image](https://github.com/user-attachments/assets/5eb3acab-050a-48fb-9d6f-37fc1ead83d8)
+
 ## [GHTN](https://github.com/Lumbi/GHTN)
 
 A Hierarchical Task Network implementation based on [Game AI Pro](https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)'s article.
